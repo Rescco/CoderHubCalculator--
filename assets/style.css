@@ -1,0 +1,16 @@
+* {
+    font-family: 'Amiri', serif;
+}
+
+.cvc {
+    font-family: 'Amiri', serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+body {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Amiri', serif;
+    background-image: url(img/wall.svg);
+}
