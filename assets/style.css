@@ -14,3 +14,7 @@ body {
     font-family: 'Amiri', serif;
     background-image: url(img/wall.svg);
 }
+footer {
+    margin: 10%;
+}
+
